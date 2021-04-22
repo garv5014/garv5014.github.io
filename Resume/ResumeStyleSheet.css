@@ -128,7 +128,7 @@ img{
 #layout{
     display: grid;
     /* rows/ columns */
-    grid:  5em 35em .25fr .25fr 15em  / 1fr 1fr  ;
+    grid:  5em 40em .25fr .25fr 15em  / 1fr 1fr  ;
     grid-template-areas: 
     "header header"
     "sum    emp"
@@ -208,7 +208,7 @@ body {
 #layout{
     display: grid;
     /* rows/ columns */
-    grid:  5em 28em .25fr .25fr 15em  / 1fr 1fr  ;
+    grid:  5em 35em .25fr .25fr 15em  / 1fr 1fr  ;
     grid-template-areas: 
     "header header"
     "sum    emp"
